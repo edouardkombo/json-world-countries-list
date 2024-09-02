@@ -7,7 +7,12 @@
             "pt": "Afeganistão",
             "ja": "アフガニスタン",
             "ko": "아프가니스탄",
-            "ru": "Афганистан"
+            "ru": "Афганистан",
+            "it": "Afghanistan",
+            "sv": "Afghanistan",
+            "fi": "Afganistan",
+            "fr": "Afghanistan",
+            "zh": "阿富汗"
         },
         "country_code": "AF",
         "language_code": [
@@ -24,7 +29,12 @@
             "pt": "Albânia",
             "ja": "アルバニア",
             "ko": "알바니아",
-            "ru": "Албания"
+            "ru": "Албания",
+            "it": "Albania",
+            "sv": "Albanien",
+            "fi": "Albania",
+            "fr": "Albanie",
+            "zh": "阿尔巴尼亚"
         },
         "country_code": "AL",
         "language_code": [
@@ -39,7 +49,12 @@
             "pt": "Argélia",
             "ja": "アルジェリア",
             "ko": "알제리",
-            "ru": "Алжир"
+            "ru": "Алжир",
+            "it": "Algeria",
+            "sv": "Algeriet",
+            "fi": "Algeria",
+            "fr": "Algérie",
+            "zh": "阿尔及利亚"
         },
         "country_code": "DZ",
         "language_code": [
@@ -54,7 +69,12 @@
             "pt": "Andorra",
             "ja": "アンドラ",
             "ko": "안도라",
-            "ru": "Андорра"
+            "ru": "Андорра",
+            "it": "Andorra",
+            "sv": "Andorra",
+            "fi": "Andorra",
+            "fr": "Andorre",
+            "zh": "安道尔"
         },
         "country_code": "AD",
         "language_code": [
@@ -69,7 +89,12 @@
             "pt": "Angola",
             "ja": "アンゴラ",
             "ko": "앙골라",
-            "ru": "Ангола"
+            "ru": "Ангола",
+            "it": "Angola",
+            "sv": "Angola",
+            "fi": "Angola",
+            "fr": "Angola",
+            "zh": "安哥拉"
         },
         "country_code": "AO",
         "language_code": [
@@ -84,7 +109,12 @@
             "pt": "Antígua e Barbuda",
             "ja": "アンティグア・バーブーダ",
             "ko": "앤티가 바부다",
-            "ru": "Антигуа и Барбуда"
+            "ru": "Антигуа и Барбуда",
+            "it": "Antigua e Barbuda",
+            "sv": "Antigua och Barbuda",
+            "fi": "Antigua ja Barbuda",
+            "fr": "Antigua-et-Barbuda",
+            "zh": "安提瓜和巴布达"
         },
         "country_code": "AG",
         "language_code": [
@@ -99,7 +129,12 @@
             "pt": "Argentina",
             "ja": "アルゼンチン",
             "ko": "아르헨티나",
-            "ru": "Аргентина"
+            "ru": "Аргентина",
+            "it": "Argentina",
+            "sv": "Argentina",
+            "fi": "Argentiina",
+            "fr": "Argentine",
+            "zh": "阿根廷"
         },
         "country_code": "AR",
         "language_code": [
@@ -114,7 +149,12 @@
             "pt": "Armênia",
             "ja": "アルメニア",
             "ko": "아르메니아",
-            "ru": "Армения"
+            "ru": "Армения",
+            "it": "Armenia",
+            "sv": "Armenien",
+            "fi": "Armenia",
+            "fr": "Arménie",
+            "zh": "亚美尼亚"
         },
         "country_code": "AM",
         "language_code": [
@@ -129,7 +169,12 @@
             "pt": "Austrália",
             "ja": "オーストラリア",
             "ko": "호주",
-            "ru": "Австралия"
+            "ru": "Австралия",
+            "it": "Australia",
+            "sv": "Australien",
+            "fi": "Australia",
+            "fr": "Australie",
+            "zh": "澳大利亚"
         },
         "country_code": "AU",
         "language_code": [
@@ -144,7 +189,12 @@
             "pt": "Áustria",
             "ja": "オーストリア",
             "ko": "오스트리아",
-            "ru": "Австрия"
+            "ru": "Австрия",
+            "it": "Austria",
+            "sv": "Österrike",
+            "fi": "Itävalta",
+            "fr": "Autriche",
+            "zh": "奥地利"
         },
         "country_code": "AT",
         "language_code": [
@@ -159,7 +209,12 @@
             "pt": "Azerbaijão",
             "ja": "アゼルバイジャン",
             "ko": "아제르바이잔",
-            "ru": "Азербайджан"
+            "ru": "Азербайджан",
+            "it": "Azerbaigian",
+            "sv": "Azerbajdzjan",
+            "fi": "Azerbaidžan",
+            "fr": "Azerbaïdjan",
+            "zh": "阿塞拜疆"
         },
         "country_code": "AZ",
         "language_code": [
@@ -174,7 +229,12 @@
             "pt": "Bahamas",
             "ja": "バハマ",
             "ko": "바하마",
-            "ru": "Багамы"
+            "ru": "Багамы",
+            "it": "Bahamas",
+            "sv": "Bahamas",
+            "fi": "Bahama",
+            "fr": "Bahamas",
+            "zh": "巴哈马"
         },
         "country_code": "BS",
         "language_code": [
@@ -189,7 +249,12 @@
             "pt": "Barém",
             "ja": "バーレーン",
             "ko": "바레인",
-            "ru": "Бахрейн"
+            "ru": "Бахрейн",
+            "it": "Bahrein",
+            "sv": "Bahrain",
+            "fi": "Bahrain",
+            "fr": "Bahreïn",
+            "zh": "巴林"
         },
         "country_code": "BH",
         "language_code": [
@@ -204,7 +269,12 @@
             "pt": "Bangladesh",
             "ja": "バングラデシュ",
             "ko": "방글라데시",
-            "ru": "Бангладеш"
+            "ru": "Бангладеш",
+            "it": "Bangladesh",
+            "sv": "Bangladesh",
+            "fi": "Bangladesh",
+            "fr": "Bangladesh",
+            "zh": "孟加拉国"
         },
         "country_code": "BD",
         "language_code": [
@@ -219,7 +289,12 @@
             "pt": "Barbados",
             "ja": "バルバドス",
             "ko": "바베이도스",
-            "ru": "Барбадос"
+            "ru": "Барбадос",
+            "it": "Barbados",
+            "sv": "Barbados",
+            "fi": "Barbados",
+            "fr": "Barbade",
+            "zh": "巴巴多斯"
         },
         "country_code": "BB",
         "language_code": [
@@ -234,7 +309,12 @@
             "pt": "Bielorrússia",
             "ja": "ベラルーシ",
             "ko": "벨라루스",
-            "ru": "Беларусь"
+            "ru": "Беларусь",
+            "it": "Bielorussia",
+            "sv": "Vitryssland",
+            "fi": "Valko-Venäjä",
+            "fr": "Biélorussie",
+            "zh": "白俄罗斯"
         },
         "country_code": "BY",
         "language_code": [
@@ -250,7 +330,12 @@
             "pt": "Bélgica",
             "ja": "ベルギー",
             "ko": "벨기에",
-            "ru": "Бельгия"
+            "ru": "Бельгия",
+            "it": "Belgio",
+            "sv": "Belgien",
+            "fi": "Belgia",
+            "fr": "Belgique",
+            "zh": "比利时"
         },
         "country_code": "BE",
         "language_code": [
@@ -267,7 +352,12 @@
             "pt": "Belize",
             "ja": "ベリーズ",
             "ko": "벨리즈",
-            "ru": "Белиз"
+            "ru": "Белиз",
+            "it": "Belize",
+            "sv": "Belize",
+            "fi": "Belize",
+            "fr": "Belize",
+            "zh": "伯利兹"
         },
         "country_code": "BZ",
         "language_code": [
@@ -282,7 +372,12 @@
             "pt": "Benim",
             "ja": "ベナン",
             "ko": "베냉",
-            "ru": "Бенин"
+            "ru": "Бенин",
+            "it": "Benin",
+            "sv": "Benin",
+            "fi": "Benin",
+            "fr": "Bénin",
+            "zh": "贝宁"
         },
         "country_code": "BJ",
         "language_code": [
@@ -297,7 +392,12 @@
             "pt": "Butão",
             "ja": "ブータン",
             "ko": "부탄",
-            "ru": "Бутан"
+            "ru": "Бутан",
+            "it": "Bhutan",
+            "sv": "Bhutan",
+            "fi": "Bhutan",
+            "fr": "Bhoutan",
+            "zh": "不丹"
         },
         "country_code": "BT",
         "language_code": [
@@ -312,7 +412,12 @@
             "pt": "Bolívia",
             "ja": "ボリビア",
             "ko": "볼리비아",
-            "ru": "Боливия"
+            "ru": "Боливия",
+            "it": "Bolivia",
+            "sv": "Bolivia",
+            "fi": "Bolivia",
+            "fr": "Bolivie",
+            "zh": "玻利维亚"
         },
         "country_code": "BO",
         "language_code": [
@@ -329,7 +434,12 @@
             "pt": "Bósnia e Herzegovina",
             "ja": "ボスニア・ヘルツェゴビナ",
             "ko": "보스니아 헤르체고비나",
-            "ru": "Босния и Герцеговина"
+            "ru": "Босния и Герцеговина",
+            "it": "Bosnia ed Erzegovina",
+            "sv": "Bosnien och Hercegovina",
+            "fi": "Bosnia ja Hertsegovina",
+            "fr": "Bosnie-Herzégovine",
+            "zh": "波斯尼亚和黑塞哥维那"
         },
         "country_code": "BA",
         "language_code": [
@@ -346,7 +456,12 @@
             "pt": "Botsuana",
             "ja": "ボツワナ",
             "ko": "보츠와나",
-            "ru": "Ботсвана"
+            "ru": "Ботсвана",
+            "it": "Botswana",
+            "sv": "Botswana",
+            "fi": "Botswana",
+            "fr": "Botswana",
+            "zh": "博茨瓦纳"
         },
         "country_code": "BW",
         "language_code": [
@@ -362,7 +477,12 @@
             "pt": "Brasil",
             "ja": "ブラジル",
             "ko": "브라질",
-            "ru": "Бразилия"
+            "ru": "Бразилия",
+            "it": "Brasile",
+            "sv": "Brasilien",
+            "fi": "Brasilia",
+            "fr": "Brésil",
+            "zh": "巴西"
         },
         "country_code": "BR",
         "language_code": [
@@ -377,7 +497,12 @@
             "pt": "Brunei",
             "ja": "ブルネイ",
             "ko": "브루나이",
-            "ru": "Бруней"
+            "ru": "Бруней",
+            "it": "Brunei",
+            "sv": "Brunei",
+            "fi": "Brunei",
+            "fr": "Brunéi",
+            "zh": "文莱"
         },
         "country_code": "BN",
         "language_code": [
@@ -392,7 +517,12 @@
             "pt": "Bulgária",
             "ja": "ブルガリア",
             "ko": "불가리아",
-            "ru": "Болгария"
+            "ru": "Болгария",
+            "it": "Bulgaria",
+            "sv": "Bulgarien",
+            "fi": "Bulgaria",
+            "fr": "Bulgarie",
+            "zh": "保加利亚"
         },
         "country_code": "BG",
         "language_code": [
@@ -407,7 +537,12 @@
             "pt": "Burquina Faso",
             "ja": "ブルキナファソ",
             "ko": "부르키나파소",
-            "ru": "Буркина-Фасо"
+            "ru": "Буркина-Фасо",
+            "it": "Burkina Faso",
+            "sv": "Burkina Faso",
+            "fi": "Burkina Faso",
+            "fr": "Burkina Faso",
+            "zh": "布基纳法索"
         },
         "country_code": "BF",
         "language_code": [
@@ -422,7 +557,12 @@
             "pt": "Burundi",
             "ja": "ブルンジ",
             "ko": "부룬디",
-            "ru": "Бурунди"
+            "ru": "Бурунди",
+            "it": "Burundi",
+            "sv": "Burundi",
+            "fi": "Burundi",
+            "fr": "Burundi",
+            "zh": "布隆迪"
         },
         "country_code": "BI",
         "language_code": [
@@ -438,7 +578,12 @@
             "pt": "Cabo Verde",
             "ja": "カーボベルデ",
             "ko": "카보베르데",
-            "ru": "Кабо-Верде"
+            "ru": "Кабо-Верде",
+            "it": "Capo Verde",
+            "sv": "Kap Verde",
+            "fi": "Kap Verde",
+            "fr": "Cap-Vert",
+            "zh": "佛得角"
         },
         "country_code": "CV",
         "language_code": [
@@ -453,7 +598,12 @@
             "pt": "Camboja",
             "ja": "カンボジア",
             "ko": "캄보디아",
-            "ru": "Камбоджа"
+            "ru": "Камбоджа",
+            "it": "Cambogia",
+            "sv": "Kambodja",
+            "fi": "Kambodža",
+            "fr": "Cambodge",
+            "zh": "柬埔寨"
         },
         "country_code": "KH",
         "language_code": [
@@ -468,7 +618,12 @@
             "pt": "Camarões",
             "ja": "カメルーン",
             "ko": "카메룬",
-            "ru": "Камерун"
+            "ru": "Камерун",
+            "it": "Camerun",
+            "sv": "Kamerun",
+            "fi": "Kamerun",
+            "fr": "Cameroun",
+            "zh": "喀麦隆"
         },
         "country_code": "CM",
         "language_code": [
@@ -484,7 +639,12 @@
             "pt": "Canadá",
             "ja": "カナダ",
             "ko": "캐나다",
-            "ru": "Канада"
+            "ru": "Канада",
+            "it": "Canada",
+            "sv": "Kanada",
+            "fi": "Kanada",
+            "fr": "Canada",
+            "zh": "加拿大"
         },
         "country_code": "CA",
         "language_code": [
@@ -500,7 +660,12 @@
             "pt": "República Centro-Africana",
             "ja": "中央アフリカ共和国",
             "ko": "중앙 아프리카 공화국",
-            "ru": "Центральноафриканская Республика"
+            "ru": "Центральноафриканская Республика",
+            "it": "Repubblica Centrafricana",
+            "sv": "Centralafrikanska republiken",
+            "fi": "Keski-Afrikan tasavalta",
+            "fr": "République centrafricaine",
+            "zh": "中非共和国"
         },
         "country_code": "CF",
         "language_code": [
@@ -516,7 +681,12 @@
             "pt": "Chade",
             "ja": "チャド",
             "ko": "차드",
-            "ru": "Чад"
+            "ru": "Чад",
+            "it": "Ciad",
+            "sv": "Tchad",
+            "fi": "Tšad",
+            "fr": "Tchad",
+            "zh": "乍得"
         },
         "country_code": "TD",
         "language_code": [
@@ -532,7 +702,12 @@
             "pt": "Chile",
             "ja": "チリ",
             "ko": "칠레",
-            "ru": "Чили"
+            "ru": "Чили",
+            "it": "Cile",
+            "sv": "Chile",
+            "fi": "Chile",
+            "fr": "Chili",
+            "zh": "智利"
         },
         "country_code": "CL",
         "language_code": [
@@ -547,7 +722,12 @@
             "pt": "China",
             "ja": "中国",
             "ko": "중국",
-            "ru": "Китай"
+            "ru": "Китай",
+            "it": "Cina",
+            "sv": "Kina",
+            "fi": "Kiina",
+            "fr": "Chine",
+            "zh": "中国"
         },
         "country_code": "CN",
         "language_code": [
@@ -562,10 +742,17 @@
             "pt": "Colômbia",
             "ja": "コロンビア",
             "ko": "콜롬비아",
-            "ru": "Колумбия"
+            "ru": "Колумбия",
+            "it": "Colombia",
+            "sv": "Colombia",
+            "fi": "Kolumbia",
+            "fr": "Colombie",
+            "zh": "哥伦比亚"
         },
         "country_code": "CO",
-        "language_code": ["es"]
+        "language_code": [
+            "es"
+        ]
     },
     {
         "country_name": {
@@ -575,10 +762,17 @@
             "pt": "Comores",
             "ja": "コモロ",
             "ko": "코모로",
-            "ru": "Коморы"
+            "ru": "Коморы",
+            "it": "Comore",
+            "sv": "Komorerna",
+            "fi": "Komorit",
+            "fr": "Comores",
+            "zh": "科摩罗"
         },
         "country_code": "KM",
-        "language_code": ["ar"]
+        "language_code": [
+            "ar"
+        ]
     },
     {
         "country_name": {
@@ -588,10 +782,17 @@
             "pt": "Costa Rica",
             "ja": "コスタリカ",
             "ko": "코스타리카",
-            "ru": "Коста-Рика"
+            "ru": "Коста-Рика",
+            "it": "Costa Rica",
+            "sv": "Costa Rica",
+            "fi": "Costa Rica",
+            "fr": "Costa Rica",
+            "zh": "哥斯达黎加"
         },
         "country_code": "CR",
-        "language_code": ["es"]
+        "language_code": [
+            "es"
+        ]
     },
     {
         "country_name": {
@@ -601,10 +802,17 @@
             "pt": "Croácia",
             "ja": "クロアチア",
             "ko": "크로아티아",
-            "ru": "Хорватия"
+            "ru": "Хорватия",
+            "it": "Croazia",
+            "sv": "Kroatien",
+            "fi": "Kroatia",
+            "fr": "Croatie",
+            "zh": "克罗地亚"
         },
         "country_code": "HR",
-        "language_code": ["hr"]
+        "language_code": [
+            "hr"
+        ]
     },
     {
         "country_name": {
@@ -614,10 +822,17 @@
             "pt": "Cuba",
             "ja": "キューバ",
             "ko": "쿠바",
-            "ru": "Куба"
+            "ru": "Куба",
+            "it": "Cuba",
+            "sv": "Kuba",
+            "fi": "Kuuba",
+            "fr": "Cuba",
+            "zh": "古巴"
         },
         "country_code": "CU",
-        "language_code": ["es"]
+        "language_code": [
+            "es"
+        ]
     },
     {
         "country_name": {
@@ -627,10 +842,18 @@
             "pt": "Chipre",
             "ja": "キプロス",
             "ko": "키프로스",
-            "ru": "Кипр"
+            "ru": "Кипр",
+            "it": "Cipro",
+            "sv": "Cypern",
+            "fi": "Kypros",
+            "fr": "Chypre",
+            "zh": "塞浦路斯"
         },
         "country_code": "CY",
-        "language_code": ["el", "tr"]
+        "language_code": [
+            "el",
+            "tr"
+        ]
     },
     {
         "country_name": {
@@ -640,10 +863,17 @@
             "pt": "República Tcheca",
             "ja": "チェコ共和国",
             "ko": "체코 공화국",
-            "ru": "Чешская Республика"
+            "ru": "Чешская Республика",
+            "it": "Repubblica Ceca",
+            "sv": "Tjeckien",
+            "fi": "Tšekin tasavalta",
+            "fr": "République tchèque",
+            "zh": "捷克共和国"
         },
         "country_code": "CZ",
-        "language_code": ["cs"]
+        "language_code": [
+            "cs"
+        ]
     },
     {
         "country_name": {
@@ -653,10 +883,17 @@
             "pt": "República Democrática do Congo",
             "ja": "コンゴ民主共和国",
             "ko": "콩고 민주 공화국",
-            "ru": "Демократическая Республика Конго"
+            "ru": "Демократическая Республика Конго",
+            "it": "Repubblica Democratica del Congo",
+            "sv": "Demokratiska republiken Kongo",
+            "fi": "Kongon demokraattinen tasavalta",
+            "fr": "République démocratique du Congo",
+            "zh": "刚果民主共和国"
         },
         "country_code": "CD",
-        "language_code": ["fr"]
+        "language_code": [
+            "fr"
+        ]
     },
     {
         "country_name": {
@@ -666,10 +903,17 @@
             "pt": "Dinamarca",
             "ja": "デンマーク",
             "ko": "덴마크",
-            "ru": "Дания"
+            "ru": "Дания",
+            "it": "Danimarca",
+            "sv": "Danmark",
+            "fi": "Tanska",
+            "fr": "Danemark",
+            "zh": "丹麦"
         },
         "country_code": "DK",
-        "language_code": ["da"]
+        "language_code": [
+            "da"
+        ]
     },
     {
         "country_name": {
@@ -679,10 +923,17 @@
             "pt": "Djibuti",
             "ja": "ジブチ",
             "ko": "지부티",
-            "ru": "Джибути"
+            "ru": "Джибути",
+            "it": "Gibuti",
+            "sv": "Djibouti",
+            "fi": "Djibouti",
+            "fr": "Djibouti",
+            "zh": "吉布提"
         },
         "country_code": "DJ",
-        "language_code": ["ar"]
+        "language_code": [
+            "ar"
+        ]
     },
     {
         "country_name": {
@@ -692,10 +943,17 @@
             "pt": "Dominica",
             "ja": "ドミニカ国",
             "ko": "도미니카",
-            "ru": "Доминика"
+            "ru": "Доминика",
+            "it": "Dominica",
+            "sv": "Dominica",
+            "fi": "Dominica",
+            "fr": "Dominique",
+            "zh": "多米尼克"
         },
         "country_code": "DM",
-        "language_code": ["en"]
+        "language_code": [
+            "en"
+        ]
     },
     {
         "country_name": {
@@ -705,10 +963,17 @@
             "pt": "República Dominicana",
             "ja": "ドミニカ共和国",
             "ko": "도미니카 공화국",
-            "ru": "Доминиканская Республика"
+            "ru": "Доминиканская Республика",
+            "it": "Repubblica Dominicana",
+            "sv": "Dominikanska republiken",
+            "fi": "Dominikaaninen tasavalta",
+            "fr": "République dominicaine",
+            "zh": "多米尼加共和国"
         },
         "country_code": "DO",
-        "language_code": ["es"]
+        "language_code": [
+            "es"
+        ]
     },
     {
         "country_name": {
@@ -718,10 +983,17 @@
             "pt": "Equador",
             "ja": "エクアドル",
             "ko": "에콰도르",
-            "ru": "Эквадор"
+            "ru": "Эквадор",
+            "it": "Ecuador",
+            "sv": "Ecuador",
+            "fi": "Ecuador",
+            "fr": "Équateur",
+            "zh": "厄瓜多尔"
         },
         "country_code": "EC",
-        "language_code": ["es"]
+        "language_code": [
+            "es"
+        ]
     },
     {
         "country_name": {
@@ -731,10 +1003,17 @@
             "pt": "Egito",
             "ja": "エジプト",
             "ko": "이집트",
-            "ru": "Египет"
+            "ru": "Египет",
+            "it": "Egitto",
+            "sv": "Egypten",
+            "fi": "Egypti",
+            "fr": "Égypte",
+            "zh": "埃及"
         },
         "country_code": "EG",
-        "language_code": ["ar"]
+        "language_code": [
+            "ar"
+        ]
     },
     {
         "country_name": {
@@ -744,10 +1023,17 @@
             "pt": "El Salvador",
             "ja": "エルサルバドル",
             "ko": "엘살바도르",
-            "ru": "Сальвадор"
+            "ru": "Сальвадор",
+            "it": "El Salvador",
+            "sv": "El Salvador",
+            "fi": "El Salvador",
+            "fr": "Le Salvador",
+            "zh": "萨尔瓦多"
         },
         "country_code": "SV",
-        "language_code": ["es"]
+        "language_code": [
+            "es"
+        ]
     },
     {
         "country_name": {
@@ -757,10 +1043,17 @@
             "pt": "Guiné Equatorial",
             "ja": "赤道ギニア",
             "ko": "적도 기니",
-            "ru": "Экваториальная Гвинея"
+            "ru": "Экваториальная Гвинея",
+            "it": "Guinea Equatoriale",
+            "sv": "Ekvatorialguinea",
+            "fi": "Päiväntasaajan Guinea",
+            "fr": "Guinée équatoriale",
+            "zh": "赤道几内亚"
         },
         "country_code": "GQ",
-        "language_code": ["es"]
+        "language_code": [
+            "es"
+        ]
     },
     {
         "country_name": {
@@ -770,10 +1063,17 @@
             "pt": "Eritreia",
             "ja": "エリトリア",
             "ko": "에리트레아",
-            "ru": "Эритрея"
+            "ru": "Эритрея",
+            "it": "Eritrea",
+            "sv": "Eritrea",
+            "fi": "Eritrea",
+            "fr": "Érythrée",
+            "zh": "厄立特里亚"
         },
         "country_code": "ER",
-        "language_code": ["ti"]
+        "language_code": [
+            "ti"
+        ]
     },
     {
         "country_name": {
@@ -783,10 +1083,17 @@
             "pt": "Estônia",
             "ja": "エストニア",
             "ko": "에스토니아",
-            "ru": "Эстония"
+            "ru": "Эстония",
+            "it": "Estonia",
+            "sv": "Estland",
+            "fi": "Viro",
+            "fr": "Estonie",
+            "zh": "爱沙尼亚"
         },
         "country_code": "EE",
-        "language_code": ["et"]
+        "language_code": [
+            "et"
+        ]
     },
     {
         "country_name": {
@@ -796,10 +1103,17 @@
             "pt": "Essuatíni",
             "ja": "エスワティニ",
             "ko": "에스와티니",
-            "ru": "Эсватини"
+            "ru": "Эсватини",
+            "it": "Eswatini",
+            "sv": "Eswatini",
+            "fi": "Eswatini",
+            "fr": "Eswatini",
+            "zh": "斯威士兰"
         },
         "country_code": "SZ",
-        "language_code": ["en"]
+        "language_code": [
+            "en"
+        ]
     },
     {
         "country_name": {
@@ -809,10 +1123,17 @@
             "pt": "Etiópia",
             "ja": "エチオピア",
             "ko": "에티오피아",
-            "ru": "Эфиопия"
+            "ru": "Эфиопия",
+            "it": "Etiopia",
+            "sv": "Etiopien",
+            "fi": "Etiopia",
+            "fr": "Éthiopie",
+            "zh": "埃塞俄比亚"
         },
         "country_code": "ET",
-        "language_code": ["am"]
+        "language_code": [
+            "am"
+        ]
     },
     {
         "country_name": {
@@ -822,10 +1143,17 @@
             "pt": "Fiji",
             "ja": "フィジー",
             "ko": "피지",
-            "ru": "Фиджи"
+            "ru": "Фиджи",
+            "it": "Figi",
+            "sv": "Fiji",
+            "fi": "Fidži",
+            "fr": "Fidji",
+            "zh": "斐济"
         },
         "country_code": "FJ",
-        "language_code": ["fj"]
+        "language_code": [
+            "fj"
+        ]
     },
     {
         "country_name": {
@@ -835,10 +1163,17 @@
             "pt": "Finlândia",
             "ja": "フィンランド",
             "ko": "핀란드",
-            "ru": "Финляндия"
+            "ru": "Финляндия",
+            "it": "Finlandia",
+            "sv": "Finland",
+            "fi": "Suomi",
+            "fr": "Finlande",
+            "zh": "芬兰"
         },
         "country_code": "FI",
-        "language_code": ["fi"]
+        "language_code": [
+            "fi"
+        ]
     },
     {
         "country_name": {
@@ -848,10 +1183,17 @@
             "pt": "França",
             "ja": "フランス",
             "ko": "프랑스",
-            "ru": "Франция"
+            "ru": "Франция",
+            "it": "Francia",
+            "sv": "Frankrike",
+            "fi": "Ranska",
+            "fr": "France",
+            "zh": "法国"
         },
         "country_code": "FR",
-        "language_code": ["fr"]
+        "language_code": [
+            "fr"
+        ]
     },
     {
         "country_name": {
@@ -861,10 +1203,17 @@
             "pt": "Gabão",
             "ja": "ガボン",
             "ko": "가봉",
-            "ru": "Габон"
+            "ru": "Габон",
+            "it": "Gabon",
+            "sv": "Gabon",
+            "fi": "Gabon",
+            "fr": "Gabon",
+            "zh": "加蓬"
         },
         "country_code": "GA",
-        "language_code": ["fr"]
+        "language_code": [
+            "fr"
+        ]
     },
     {
         "country_name": {
@@ -874,10 +1223,17 @@
             "pt": "Gâmbia",
             "ja": "ガンビア",
             "ko": "감비아",
-            "ru": "Гамбия"
+            "ru": "Гамбия",
+            "it": "Gambia",
+            "sv": "Gambia",
+            "fi": "Gambia",
+            "fr": "Gambie",
+            "zh": "冈比亚"
         },
         "country_code": "GM",
-        "language_code": ["en"]
+        "language_code": [
+            "en"
+        ]
     },
     {
         "country_name": {
@@ -887,10 +1243,17 @@
             "pt": "Geórgia",
             "ja": "ジョージア",
             "ko": "조지아",
-            "ru": "Грузия"
+            "ru": "Грузия",
+            "it": "Georgia",
+            "sv": "Georgien",
+            "fi": "Georgia",
+            "fr": "Géorgie",
+            "zh": "格鲁吉亚"
         },
         "country_code": "GE",
-        "language_code": ["ka"]
+        "language_code": [
+            "ka"
+        ]
     },
     {
         "country_name": {
@@ -900,10 +1263,17 @@
             "pt": "Alemanha",
             "ja": "ドイツ",
             "ko": "독일",
-            "ru": "Германия"
+            "ru": "Германия",
+            "it": "Germania",
+            "sv": "Tyskland",
+            "fi": "Saksa",
+            "fr": "Allemagne",
+            "zh": "德国"
         },
         "country_code": "DE",
-        "language_code": ["de"]
+        "language_code": [
+            "de"
+        ]
     },
     {
         "country_name": {
@@ -913,10 +1283,17 @@
             "pt": "Gana",
             "ja": "ガーナ",
             "ko": "가나",
-            "ru": "Гана"
+            "ru": "Гана",
+            "it": "Ghana",
+            "sv": "Ghana",
+            "fi": "Ghana",
+            "fr": "Ghana",
+            "zh": "加纳"
         },
         "country_code": "GH",
-        "language_code": ["en"]
+        "language_code": [
+            "en"
+        ]
     },
     {
         "country_name": {
@@ -926,10 +1303,17 @@
             "pt": "Grécia",
             "ja": "ギリシャ",
             "ko": "그리스",
-            "ru": "Греция"
+            "ru": "Греция",
+            "it": "Grecia",
+            "sv": "Grekland",
+            "fi": "Kreikka",
+            "fr": "Grèce",
+            "zh": "希腊"
         },
         "country_code": "GR",
-        "language_code": ["el"]
+        "language_code": [
+            "el"
+        ]
     },
     {
         "country_name": {
@@ -939,10 +1323,17 @@
             "pt": "Granada",
             "ja": "グレナダ",
             "ko": "그레나다",
-            "ru": "Гренада"
+            "ru": "Гренада",
+            "it": "Grenada",
+            "sv": "Grenada",
+            "fi": "Grenada",
+            "fr": "Grenade",
+            "zh": "格林纳达"
         },
         "country_code": "GD",
-        "language_code": ["en"]
+        "language_code": [
+            "en"
+        ]
     },
     {
         "country_name": {
@@ -952,10 +1343,17 @@
             "pt": "Guatemala",
             "ja": "グアテマラ",
             "ko": "과테말라",
-            "ru": "Гватемала"
+            "ru": "Гватемала",
+            "it": "Guatemala",
+            "sv": "Guatemala",
+            "fi": "Guatemala",
+            "fr": "Guatemala",
+            "zh": "危地马拉"
         },
         "country_code": "GT",
-        "language_code": ["es"]
+        "language_code": [
+            "es"
+        ]
     },
     {
         "country_name": {
@@ -965,10 +1363,17 @@
             "pt": "Guiné",
             "ja": "ギニア",
             "ko": "기니",
-            "ru": "Гвинея"
+            "ru": "Гвинея",
+            "it": "Guinea",
+            "sv": "Guinea",
+            "fi": "Guinea",
+            "fr": "Guinée",
+            "zh": "几内亚"
         },
         "country_code": "GN",
-        "language_code": ["fr"]
+        "language_code": [
+            "fr"
+        ]
     },
     {
         "country_name": {
@@ -978,10 +1383,17 @@
             "pt": "Guiné-Bissau",
             "ja": "ギニアビサウ",
             "ko": "기니비사우",
-            "ru": "Гвинея-Бисау"
+            "ru": "Гвинея-Бисау",
+            "it": "Guinea-Bissau",
+            "sv": "Guinea-Bissau",
+            "fi": "Guinea-Bissau",
+            "fr": "Guinée-Bissau",
+            "zh": "几内亚比绍"
         },
         "country_code": "GW",
-        "language_code": ["pt"]
+        "language_code": [
+            "pt"
+        ]
     },
     {
         "country_name": {
@@ -991,10 +1403,17 @@
             "pt": "Guiana",
             "ja": "ガイアナ",
             "ko": "가이아나",
-            "ru": "Гайана"
+            "ru": "Гайана",
+            "it": "Guyana",
+            "sv": "Guyana",
+            "fi": "Guyana",
+            "fr": "Guyana",
+            "zh": "圭亚那"
         },
         "country_code": "GY",
-        "language_code": ["en"]
+        "language_code": [
+            "en"
+        ]
     },
     {
         "country_name": {
@@ -1004,10 +1423,18 @@
             "pt": "Haiti",
             "ja": "ハイチ",
             "ko": "아이티",
-            "ru": "Гаити"
+            "ru": "Гаити",
+            "it": "Haiti",
+            "sv": "Haiti",
+            "fi": "Haiti",
+            "fr": "Haïti",
+            "zh": "海地"
         },
         "country_code": "HT",
-        "language_code": ["fr", "ht"]
+        "language_code": [
+            "fr",
+            "ht"
+        ]
     },
     {
         "country_name": {
@@ -1017,10 +1444,17 @@
             "pt": "Honduras",
             "ja": "ホンジュラス",
             "ko": "온두라스",
-            "ru": "Гондурас"
+            "ru": "Гондурас",
+            "it": "Honduras",
+            "sv": "Honduras",
+            "fi": "Honduras",
+            "fr": "Honduras",
+            "zh": "洪都拉斯"
         },
         "country_code": "HN",
-        "language_code": ["es"]
+        "language_code": [
+            "es"
+        ]
     },
     {
         "country_name": {
@@ -1030,10 +1464,17 @@
             "pt": "Hungria",
             "ja": "ハンガリー",
             "ko": "헝가리",
-            "ru": "Венгрия"
+            "ru": "Венгрия",
+            "it": "Ungheria",
+            "sv": "Ungern",
+            "fi": "Unkari",
+            "fr": "Hongrie",
+            "zh": "匈牙利"
         },
         "country_code": "HU",
-        "language_code": ["hu"]
+        "language_code": [
+            "hu"
+        ]
     },
     {
         "country_name": {
@@ -1043,10 +1484,17 @@
             "pt": "Islândia",
             "ja": "アイスランド",
             "ko": "아이슬란드",
-            "ru": "Исландия"
+            "ru": "Исландия",
+            "it": "Islanda",
+            "sv": "Island",
+            "fi": "Islanti",
+            "fr": "Islande",
+            "zh": "冰岛"
         },
         "country_code": "IS",
-        "language_code": ["is"]
+        "language_code": [
+            "is"
+        ]
     },
     {
         "country_name": {
@@ -1056,10 +1504,18 @@
             "pt": "Índia",
             "ja": "インド",
             "ko": "인도",
-            "ru": "Индия"
+            "ru": "Индия",
+            "it": "India",
+            "sv": "Indien",
+            "fi": "Intia",
+            "fr": "Inde",
+            "zh": "印度"
         },
         "country_code": "IN",
-        "language_code": ["hi", "en"]
+        "language_code": [
+            "hi",
+            "en"
+        ]
     },
     {
         "country_name": {
@@ -1069,10 +1525,17 @@
             "pt": "Indonésia",
             "ja": "インドネシア",
             "ko": "인도네시아",
-            "ru": "Индонезия"
+            "ru": "Индонезия",
+            "it": "Indonesia",
+            "sv": "Indonesien",
+            "fi": "Indonesia",
+            "fr": "Indonésie",
+            "zh": "印度尼西亚"
         },
         "country_code": "ID",
-        "language_code": ["id"]
+        "language_code": [
+            "id"
+        ]
     },
     {
         "country_name": {
@@ -1082,10 +1545,17 @@
             "pt": "Irã",
             "ja": "イラン",
             "ko": "이란",
-            "ru": "Иран"
+            "ru": "Иран",
+            "it": "Iran",
+            "sv": "Iran",
+            "fi": "Iran",
+            "fr": "Iran",
+            "zh": "伊朗"
         },
         "country_code": "IR",
-        "language_code": ["fa"]
+        "language_code": [
+            "fa"
+        ]
     },
     {
         "country_name": {
@@ -1095,10 +1565,18 @@
             "pt": "Iraque",
             "ja": "イラク",
             "ko": "이라크",
-            "ru": "Ирак"
+            "ru": "Ирак",
+            "it": "Iraq",
+            "sv": "Irak",
+            "fi": "Irak",
+            "fr": "Irak",
+            "zh": "伊拉克"
         },
         "country_code": "IQ",
-        "language_code": ["ar", "ku"]
+        "language_code": [
+            "ar",
+            "ku"
+        ]
     },
     {
         "country_name": {
@@ -1108,10 +1586,18 @@
             "pt": "Irlanda",
             "ja": "アイルランド",
             "ko": "아일랜드",
-            "ru": "Ирландия"
+            "ru": "Ирландия",
+            "it": "Irlanda",
+            "sv": "Irland",
+            "fi": "Irlanti",
+            "fr": "Irlande",
+            "zh": "爱尔兰"
         },
         "country_code": "IE",
-        "language_code": ["en", "ga"]
+        "language_code": [
+            "en",
+            "ga"
+        ]
     },
     {
         "country_name": {
@@ -1121,10 +1607,18 @@
             "pt": "Israel",
             "ja": "イスラエル",
             "ko": "이스라엘",
-            "ru": "Израиль"
+            "ru": "Израиль",
+            "it": "Israele",
+            "sv": "Israel",
+            "fi": "Israel",
+            "fr": "Israël",
+            "zh": "以色列"
         },
         "country_code": "IL",
-        "language_code": ["he", "ar"]
+        "language_code": [
+            "he",
+            "ar"
+        ]
     },
     {
         "country_name": {
@@ -1134,10 +1628,17 @@
             "pt": "Itália",
             "ja": "イタリア",
             "ko": "이탈리아",
-            "ru": "Италия"
+            "ru": "Италия",
+            "it": "Italia",
+            "sv": "Italien",
+            "fi": "Italia",
+            "fr": "Italie",
+            "zh": "意大利"
         },
         "country_code": "IT",
-        "language_code": ["it"]
+        "language_code": [
+            "it"
+        ]
     },
     {
         "country_name": {
@@ -1147,10 +1648,17 @@
             "pt": "Costa do Marfim",
             "ja": "コートジボワール",
             "ko": "코트디부아르",
-            "ru": "Кот-д'Ивуар"
+            "ru": "Кот-д'Ивуар",
+            "it": "Costa d'Avorio",
+            "sv": "Elfenbenskusten",
+            "fi": "Norsunluurannikko",
+            "fr": "Côte d'Ivoire",
+            "zh": "科特迪瓦"
         },
         "country_code": "CI",
-        "language_code": ["fr"]
+        "language_code": [
+            "fr"
+        ]
     },
     {
         "country_name": {
@@ -1160,10 +1668,17 @@
             "pt": "Jamaica",
             "ja": "ジャマイカ",
             "ko": "자메이카",
-            "ru": "Ямайка"
+            "ru": "Ямайка",
+            "it": "Giamaica",
+            "sv": "Jamaica",
+            "fi": "Jamaika",
+            "fr": "Jamaïque",
+            "zh": "牙买加"
         },
         "country_code": "JM",
-        "language_code": ["en"]
+        "language_code": [
+            "en"
+        ]
     },
     {
         "country_name": {
@@ -1173,10 +1688,17 @@
             "pt": "Japão",
             "ja": "日本",
             "ko": "일본",
-            "ru": "Япония"
+            "ru": "Япония",
+            "it": "Giappone",
+            "sv": "Japan",
+            "fi": "Japani",
+            "fr": "Japon",
+            "zh": "日本"
         },
         "country_code": "JP",
-        "language_code": ["ja"]
+        "language_code": [
+            "ja"
+        ]
     },
     {
         "country_name": {
@@ -1186,10 +1708,17 @@
             "pt": "Jordânia",
             "ja": "ヨルダン",
             "ko": "요르단",
-            "ru": "Иордания"
+            "ru": "Иордания",
+            "it": "Giordania",
+            "sv": "Jordanien",
+            "fi": "Jordania",
+            "fr": "Jordanie",
+            "zh": "约旦"
         },
         "country_code": "JO",
-        "language_code": ["ar"]
+        "language_code": [
+            "ar"
+        ]
     },
     {
         "country_name": {
@@ -1199,10 +1728,18 @@
             "pt": "Cazaquistão",
             "ja": "カザフスタン",
             "ko": "카자흐스탄",
-            "ru": "Казахстан"
+            "ru": "Казахстан",
+            "it": "Kazakistan",
+            "sv": "Kazakhstan",
+            "fi": "Kazakhstan",
+            "fr": "Kazakhstan",
+            "zh": "哈萨克斯坦"
         },
         "country_code": "KZ",
-        "language_code": ["kk", "ru"]
+        "language_code": [
+            "kk",
+            "ru"
+        ]
     },
     {
         "country_name": {
@@ -1212,10 +1749,17 @@
             "pt": "Quênia",
             "ja": "ケニア",
             "ko": "케냐",
-            "ru": "Кения"
+            "ru": "Кения",
+            "it": "Kenya",
+            "sv": "Kenya",
+            "fi": "Kenia",
+            "fr": "Kenya",
+            "zh": "肯尼亚"
         },
         "country_code": "KE",
-        "language_code": ["sw"]
+        "language_code": [
+            "sw"
+        ]
     },
     {
         "country_name": {
@@ -1225,10 +1769,17 @@
             "pt": "Quiribati",
             "ja": "キリバス",
             "ko": "키리바시",
-            "ru": "Кирибати"
+            "ru": "Кирибати",
+            "it": "Kiribati",
+            "sv": "Kiribati",
+            "fi": "Kiribati",
+            "fr": "Kiribati",
+            "zh": "基里巴斯"
         },
         "country_code": "KI",
-        "language_code": ["gil"]
+        "language_code": [
+            "gil"
+        ]
     },
     {
         "country_name": {
@@ -1238,10 +1789,17 @@
             "pt": "Kuwait",
             "ja": "クウェート",
             "ko": "쿠웨이트",
-            "ru": "Кувейт"
+            "ru": "Кувейт",
+            "it": "Kuwait",
+            "sv": "Kuwait",
+            "fi": "Kuwait",
+            "fr": "Koweït",
+            "zh": "科威特"
         },
         "country_code": "KW",
-        "language_code": ["ar"]
+        "language_code": [
+            "ar"
+        ]
     },
     {
         "country_name": {
@@ -1251,10 +1809,18 @@
             "pt": "Quirguistão",
             "ja": "キルギス",
             "ko": "키르기스스탄",
-            "ru": "Киргизия"
+            "ru": "Киргизия",
+            "it": "Kirghizistan",
+            "sv": "Kirgizistan",
+            "fi": "Kirgisia",
+            "fr": "Kirghizistan",
+            "zh": "吉尔吉斯斯坦"
         },
         "country_code": "KG",
-        "language_code": ["ky", "ru"]
+        "language_code": [
+            "ky",
+            "ru"
+        ]
     },
     {
         "country_name": {
@@ -1264,10 +1830,17 @@
             "pt": "Laos",
             "ja": "ラオス",
             "ko": "라오스",
-            "ru": "Лаос"
+            "ru": "Лаос",
+            "it": "Laos",
+            "sv": "Laos",
+            "fi": "Laos",
+            "fr": "Laos",
+            "zh": "老挝"
         },
         "country_code": "LA",
-        "language_code": ["lo"]
+        "language_code": [
+            "lo"
+        ]
     },
     {
         "country_name": {
@@ -1277,10 +1850,17 @@
             "pt": "Letônia",
             "ja": "ラトビア",
             "ko": "라트비아",
-            "ru": "Латвия"
+            "ru": "Латвия",
+            "it": "Lettonia",
+            "sv": "Lettland",
+            "fi": "Latvia",
+            "fr": "Lettonie",
+            "zh": "拉脱维亚"
         },
         "country_code": "LV",
-        "language_code": ["lv"]
+        "language_code": [
+            "lv"
+        ]
     },
     {
         "country_name": {
@@ -1290,10 +1870,18 @@
             "pt": "Líbano",
             "ja": "レバノン",
             "ko": "레바논",
-            "ru": "Ливан"
+            "ru": "Ливан",
+            "it": "Libano",
+            "sv": "Libanon",
+            "fi": "Libanon",
+            "fr": "Liban",
+            "zh": "黎巴嫩"
         },
         "country_code": "LB",
-        "language_code": ["ar", "fr"]
+        "language_code": [
+            "ar",
+            "fr"
+        ]
     },
     {
         "country_name": {
@@ -1303,10 +1891,17 @@
             "pt": "Lesoto",
             "ja": "レソト",
             "ko": "레소토",
-            "ru": "Лесото"
+            "ru": "Лесото",
+            "it": "Lesotho",
+            "sv": "Lesotho",
+            "fi": "Lesotho",
+            "fr": "Lesotho",
+            "zh": "莱索托"
         },
         "country_code": "LS",
-        "language_code": ["st"]
+        "language_code": [
+            "st"
+        ]
     },
     {
         "country_name": {
@@ -1316,10 +1911,17 @@
             "pt": "Libéria",
             "ja": "リベリア",
             "ko": "라이베리아",
-            "ru": "Либерия"
+            "ru": "Либерия",
+            "it": "Liberia",
+            "sv": "Liberia",
+            "fi": "Liberia",
+            "fr": "Libéria",
+            "zh": "利比里亚"
         },
         "country_code": "LR",
-        "language_code": ["en"]
+        "language_code": [
+            "en"
+        ]
     },
     {
         "country_name": {
@@ -1329,7 +1931,12 @@
             "pt": "Líbia",
             "ja": "リビア",
             "ko": "리비아",
-            "ru": "Ливия"
+            "ru": "Ливия",
+            "it": "Libia",
+            "sv": "Libyen",
+            "fi": "Libya",
+            "fr": "Libye",
+            "zh": "利比亚"
         },
         "country_code": "LY",
         "language_code": [
@@ -1344,7 +1951,12 @@
             "pt": "Liechtenstein",
             "ja": "リヒテンシュタイン",
             "ko": "리히텐슈타인",
-            "ru": "Лихтенштейн"
+            "ru": "Лихтенштейн",
+            "it": "Liechtenstein",
+            "sv": "Liechtenstein",
+            "fi": "Liechtenstein",
+            "fr": "Liechtenstein",
+            "zh": "列支敦士登"
         },
         "country_code": "LI",
         "language_code": [
@@ -1359,7 +1971,12 @@
             "pt": "Lituânia",
             "ja": "リトアニア",
             "ko": "리투아니아",
-            "ru": "Литва"
+            "ru": "Литва",
+            "it": "Lituania",
+            "sv": "Litauen",
+            "fi": "Liettua",
+            "fr": "Lituanie",
+            "zh": "立陶宛"
         },
         "country_code": "LT",
         "language_code": [
@@ -1374,7 +1991,12 @@
             "pt": "Luxemburgo",
             "ja": "ルクセンブルク",
             "ko": "룩셈부르크",
-            "ru": "Люксембург"
+            "ru": "Люксембург",
+            "it": "Lussemburgo",
+            "sv": "Luxemburg",
+            "fi": "Luxemburg",
+            "fr": "Luxembourg",
+            "zh": "卢森堡"
         },
         "country_code": "LU",
         "language_code": [
@@ -1391,7 +2013,12 @@
             "pt": "Madagáscar",
             "ja": "マダガスカル",
             "ko": "마다가스카르",
-            "ru": "Мадагаскар"
+            "ru": "Мадагаскар",
+            "it": "Madagascar",
+            "sv": "Madagaskar",
+            "fi": "Madagaskar",
+            "fr": "Madagascar",
+            "zh": "马达加斯加"
         },
         "country_code": "MG",
         "language_code": [
@@ -1406,7 +2033,12 @@
             "pt": "Malawi",
             "ja": "マラウイ",
             "ko": "말라위",
-            "ru": "Малави"
+            "ru": "Малави",
+            "it": "Malawi",
+            "sv": "Malawi",
+            "fi": "Malawi",
+            "fr": "Malawi",
+            "zh": "马拉维"
         },
         "country_code": "MW",
         "language_code": [
@@ -1421,7 +2053,12 @@
             "pt": "Malásia",
             "ja": "マレーシア",
             "ko": "말레이시아",
-            "ru": "Малайзия"
+            "ru": "Малайзия",
+            "it": "Malesia",
+            "sv": "Malaysia",
+            "fi": "Malesia",
+            "fr": "Malaisie",
+            "zh": "马来西亚"
         },
         "country_code": "MY",
         "language_code": [
@@ -1436,7 +2073,12 @@
             "pt": "Maldivas",
             "ja": "モルディブ",
             "ko": "몰디브",
-            "ru": "Мальдивы"
+            "ru": "Мальдивы",
+            "it": "Maldive",
+            "sv": "Maldiverna",
+            "fi": "Malediivit",
+            "fr": "Maldives",
+            "zh": "马尔代夫"
         },
         "country_code": "MV",
         "language_code": [
@@ -1451,7 +2093,12 @@
             "pt": "Mali",
             "ja": "マリ",
             "ko": "말리",
-            "ru": "Мали"
+            "ru": "Мали",
+            "it": "Mali",
+            "sv": "Mali",
+            "fi": "Mali",
+            "fr": "Mali",
+            "zh": "马里"
         },
         "country_code": "ML",
         "language_code": [
@@ -1466,7 +2113,12 @@
             "pt": "Malta",
             "ja": "マルタ",
             "ko": "몰타",
-            "ru": "Мальта"
+            "ru": "Мальта",
+            "it": "Malta",
+            "sv": "Malta",
+            "fi": "Malta",
+            "fr": "Malte",
+            "zh": "马耳他"
         },
         "country_code": "MT",
         "language_code": [
@@ -1477,12 +2129,17 @@
     {
         "country_name": {
             "en": "Marshall Islands",
-            "native": "Aelōñ Kein Ad",
+            "native": "Marshall Islands",
             "es": "Islas Marshall",
             "pt": "Ilhas Marshall",
             "ja": "マーシャル諸島",
             "ko": "마셜 제도",
-            "ru": "Маршалловы Острова"
+            "ru": "Маршалловы Острова",
+            "it": "Isole Marshall",
+            "sv": "Marshallöarna",
+            "fi": "Marshallinsaaret",
+            "fr": "Îles Marshall",
+            "zh": "马绍尔群岛"
         },
         "country_code": "MH",
         "language_code": [
@@ -1497,7 +2154,12 @@
             "pt": "Mauritânia",
             "ja": "モーリタニア",
             "ko": "모리타니",
-            "ru": "Мавритания"
+            "ru": "Мавритания",
+            "it": "Mauritania",
+            "sv": "Mauretanien",
+            "fi": "Mauritania",
+            "fr": "Mauritanie",
+            "zh": "毛里塔尼亚"
         },
         "country_code": "MR",
         "language_code": [
@@ -1512,7 +2174,12 @@
             "pt": "Maurícia",
             "ja": "モーリシャス",
             "ko": "모리셔스",
-            "ru": "Маврикий"
+            "ru": "Маврикий",
+            "it": "Mauritius",
+            "sv": "Mauritius",
+            "fi": "Mauritius",
+            "fr": "Île Maurice",
+            "zh": "毛里求斯"
         },
         "country_code": "MU",
         "language_code": [
@@ -1527,7 +2194,12 @@
             "pt": "México",
             "ja": "メキシコ",
             "ko": "멕시코",
-            "ru": "Мексика"
+            "ru": "Мексика",
+            "it": "Messico",
+            "sv": "Mexiko",
+            "fi": "Meksiko",
+            "fr": "Mexique",
+            "zh": "墨西哥"
         },
         "country_code": "MX",
         "language_code": [
@@ -1542,7 +2214,12 @@
             "pt": "Micronésia",
             "ja": "ミクロネシア",
             "ko": "미크로네시아",
-            "ru": "Микронезия"
+            "ru": "Микронезия",
+            "it": "Micronesia",
+            "sv": "Mikronesien",
+            "fi": "Mikronesia",
+            "fr": "Micronésie",
+            "zh": "密克罗尼西亚"
         },
         "country_code": "FM",
         "language_code": [
@@ -1557,7 +2234,12 @@
             "pt": "Moldávia",
             "ja": "モルドバ",
             "ko": "몰도바",
-            "ru": "Молдова"
+            "ru": "Молдова",
+            "it": "Moldavia",
+            "sv": "Moldavien",
+            "fi": "Moldova",
+            "fr": "Moldavie",
+            "zh": "摩尔多瓦"
         },
         "country_code": "MD",
         "language_code": [
@@ -1572,7 +2254,12 @@
             "pt": "Mónaco",
             "ja": "モナコ",
             "ko": "모나코",
-            "ru": "Монако"
+            "ru": "Монако",
+            "it": "Monaco",
+            "sv": "Monaco",
+            "fi": "Monaco",
+            "fr": "Monaco",
+            "zh": "摩纳哥"
         },
         "country_code": "MC",
         "language_code": [
@@ -1587,7 +2274,12 @@
             "pt": "Mongólia",
             "ja": "モンゴル",
             "ko": "몽골",
-            "ru": "Монголия"
+            "ru": "Монголия",
+            "it": "Mongolia",
+            "sv": "Mongoliet",
+            "fi": "Mongolia",
+            "fr": "Mongolie",
+            "zh": "蒙古"
         },
         "country_code": "MN",
         "language_code": [
@@ -1602,7 +2294,12 @@
             "pt": "Montenegro",
             "ja": "モンテネグロ",
             "ko": "몬테네그로",
-            "ru": "Черногория"
+            "ru": "Черногория",
+            "it": "Montenegro",
+            "sv": "Montenegro",
+            "fi": "Montenegro",
+            "fr": "Monténégro",
+            "zh": "黑山"
         },
         "country_code": "ME",
         "language_code": [
@@ -1620,7 +2317,12 @@
             "pt": "Marrocos",
             "ja": "モロッコ",
             "ko": "모로코",
-            "ru": "Марокко"
+            "ru": "Марокко",
+            "it": "Marocco",
+            "sv": "Marocko",
+            "fi": "Marokko",
+            "fr": "Maroc",
+            "zh": "摩洛哥"
         },
         "country_code": "MA",
         "language_code": [
@@ -1635,7 +2337,12 @@
             "pt": "Moçambique",
             "ja": "モザンビーク",
             "ko": "모잠비크",
-            "ru": "Мозамбик"
+            "ru": "Мозамбик",
+            "it": "Mozambico",
+            "sv": "Moçambique",
+            "fi": "Mosambik",
+            "fr": "Mozambique",
+            "zh": "莫桑比克"
         },
         "country_code": "MZ",
         "language_code": [
@@ -1650,7 +2357,12 @@
             "pt": "Myanmar",
             "ja": "ミャンマー",
             "ko": "미얀마",
-            "ru": "Мьянма"
+            "ru": "Мьянма",
+            "it": "Myanmar",
+            "sv": "Myanmar",
+            "fi": "Myanmar",
+            "fr": "Myanmar",
+            "zh": "缅甸"
         },
         "country_code": "MM",
         "language_code": [
@@ -1665,7 +2377,12 @@
             "pt": "Namíbia",
             "ja": "ナミビア",
             "ko": "나미비아",
-            "ru": "Намибия"
+            "ru": "Намибия",
+            "it": "Namibia",
+            "sv": "Namibia",
+            "fi": "Namibia",
+            "fr": "Namibie",
+            "zh": "纳米比亚"
         },
         "country_code": "NA",
         "language_code": [
@@ -1680,7 +2397,12 @@
             "pt": "Nauru",
             "ja": "ナウル",
             "ko": "나우루",
-            "ru": "Науру"
+            "ru": "Науру",
+            "it": "Nauru",
+            "sv": "Nauru",
+            "fi": "Nauru",
+            "fr": "Nauru",
+            "zh": "瑙鲁"
         },
         "country_code": "NR",
         "language_code": [
@@ -1695,7 +2417,12 @@
             "pt": "Nepal",
             "ja": "ネパール",
             "ko": "네팔",
-            "ru": "Непал"
+            "ru": "Непал",
+            "it": "Nepal",
+            "sv": "Nepal",
+            "fi": "Nepal",
+            "fr": "Népal",
+            "zh": "尼泊尔"
         },
         "country_code": "NP",
         "language_code": [
@@ -1710,7 +2437,12 @@
             "pt": "Países Baixos",
             "ja": "オランダ",
             "ko": "네덜란드",
-            "ru": "Нидерланды"
+            "ru": "Нидерланды",
+            "it": "Paesi Bassi",
+            "sv": "Nederländerna",
+            "fi": "Alankomaat",
+            "fr": "Pays-Bas",
+            "zh": "荷兰"
         },
         "country_code": "NL",
         "language_code": [
@@ -1725,7 +2457,12 @@
             "pt": "Nova Zelândia",
             "ja": "ニュージーランド",
             "ko": "뉴질랜드",
-            "ru": "Новая Зеландия"
+            "ru": "Новая Зеландия",
+            "it": "Nuova Zelanda",
+            "sv": "Nya Zeeland",
+            "fi": "Uusi-Seelanti",
+            "fr": "Nouvelle-Zélande",
+            "zh": "新西兰"
         },
         "country_code": "NZ",
         "language_code": [
@@ -1740,7 +2477,12 @@
             "pt": "Nicarágua",
             "ja": "ニカラグア",
             "ko": "니카라과",
-            "ru": "Никарагуа"
+            "ru": "Никарагуа",
+            "it": "Nicaragua",
+            "sv": "Nicaragua",
+            "fi": "Nicaragua",
+            "fr": "Nicaragua",
+            "zh": "尼加拉瓜"
         },
         "country_code": "NI",
         "language_code": [
@@ -1755,7 +2497,12 @@
             "pt": "Níger",
             "ja": "ニジェール",
             "ko": "니제르",
-            "ru": "Нигер"
+            "ru": "Нигер",
+            "it": "Niger",
+            "sv": "Niger",
+            "fi": "Niger",
+            "fr": "Niger",
+            "zh": "尼日尔"
         },
         "country_code": "NE",
         "language_code": [
@@ -1770,7 +2517,12 @@
             "pt": "Nigéria",
             "ja": "ナイジェリア",
             "ko": "나이지리아",
-            "ru": "Нигерия"
+            "ru": "Нигерия",
+            "it": "Nigeria",
+            "sv": "Nigeria",
+            "fi": "Nigeria",
+            "fr": "Nigéria",
+            "zh": "尼日利亚"
         },
         "country_code": "NG",
         "language_code": [
@@ -1785,7 +2537,12 @@
             "pt": "Coreia do Norte",
             "ja": "北朝鮮",
             "ko": "북한",
-            "ru": "Северная Корея"
+            "ru": "Северная Корея",
+            "it": "Corea del Nord",
+            "sv": "Nordkorea",
+            "fi": "Pohjois-Korea",
+            "fr": "Corée du Nord",
+            "zh": "朝鲜"
         },
         "country_code": "KP",
         "language_code": [
@@ -1800,7 +2557,12 @@
             "pt": "Macedónia do Norte",
             "ja": "北マケドニア",
             "ko": "북마케도니아",
-            "ru": "Северная Македония"
+            "ru": "Северная Македония",
+            "it": "Macedonia del Nord",
+            "sv": "Nordmakedonien",
+            "fi": "Pohjois-Makedonia",
+            "fr": "Macédoine du Nord",
+            "zh": "北马其顿"
         },
         "country_code": "MK",
         "language_code": [
@@ -1815,7 +2577,12 @@
             "pt": "Noruega",
             "ja": "ノルウェー",
             "ko": "노르웨이",
-            "ru": "Норвегия"
+            "ru": "Норвегия",
+            "it": "Norvegia",
+            "sv": "Norge",
+            "fi": "Norja",
+            "fr": "Norvège",
+            "zh": "挪威"
         },
         "country_code": "NO",
         "language_code": [
@@ -1832,7 +2599,12 @@
             "pt": "Omã",
             "ja": "オマーン",
             "ko": "오만",
-            "ru": "Оман"
+            "ru": "Оман",
+            "it": "Oman",
+            "sv": "Oman",
+            "fi": "Oman",
+            "fr": "Oman",
+            "zh": "阿曼"
         },
         "country_code": "OM",
         "language_code": [
@@ -1847,7 +2619,12 @@
             "pt": "Paquistão",
             "ja": "パキスタン",
             "ko": "파키스탄",
-            "ru": "Пакистан"
+            "ru": "Пакистан",
+            "it": "Pakistan",
+            "sv": "Pakistan",
+            "fi": "Pakistan",
+            "fr": "Pakistan",
+            "zh": "巴基斯坦"
         },
         "country_code": "PK",
         "language_code": [
@@ -1863,7 +2640,12 @@
             "pt": "Palau",
             "ja": "パラオ",
             "ko": "팔라우",
-            "ru": "Палау"
+            "ru": "Палау",
+            "it": "Palau",
+            "sv": "Palau",
+            "fi": "Palau",
+            "fr": "Palaos",
+            "zh": "帕劳"
         },
         "country_code": "PW",
         "language_code": [
@@ -1878,7 +2660,12 @@
             "pt": "Palestina",
             "ja": "パレスチナ",
             "ko": "팔레스타인",
-            "ru": "Палестина"
+            "ru": "Палестина",
+            "it": "Palestina",
+            "sv": "Palestina",
+            "fi": "Palestiina",
+            "fr": "Palestine",
+            "zh": "巴勒斯坦"
         },
         "country_code": "PS",
         "language_code": [
@@ -1893,7 +2680,12 @@
             "pt": "Panamá",
             "ja": "パナマ",
             "ko": "파나마",
-            "ru": "Панама"
+            "ru": "Панама",
+            "it": "Panama",
+            "sv": "Panama",
+            "fi": "Panama",
+            "fr": "Panama",
+            "zh": "巴拿马"
         },
         "country_code": "PA",
         "language_code": [
@@ -1908,7 +2700,12 @@
             "pt": "Papua-Nova Guiné",
             "ja": "パプアニューギニア",
             "ko": "파푸아뉴기니",
-            "ru": "Папуа — Новая Гвинея"
+            "ru": "Папуа — Новая Гвинея",
+            "it": "Papua Nuova Guinea",
+            "sv": "Papua Nya Guinea",
+            "fi": "Papua-Uusi-Guinea",
+            "fr": "Papouasie-Nouvelle-Guinée",
+            "zh": "巴布亚新几内亚"
         },
         "country_code": "PG",
         "language_code": [
@@ -1923,7 +2720,12 @@
             "pt": "Paraguai",
             "ja": "パラグアイ",
             "ko": "파라과이",
-            "ru": "Парагвай"
+            "ru": "Парагвай",
+            "it": "Paraguay",
+            "sv": "Paraguay",
+            "fi": "Paraguay",
+            "fr": "Paraguay",
+            "zh": "巴拉圭"
         },
         "country_code": "PY",
         "language_code": [
@@ -1939,7 +2741,12 @@
             "pt": "Peru",
             "ja": "ペルー",
             "ko": "페루",
-            "ru": "Перу"
+            "ru": "Перу",
+            "it": "Perù",
+            "sv": "Peru",
+            "fi": "Peru",
+            "fr": "Pérou",
+            "zh": "秘鲁"
         },
         "country_code": "PE",
         "language_code": [
@@ -1954,7 +2761,12 @@
             "pt": "Filipinas",
             "ja": "フィリピン",
             "ko": "필리핀",
-            "ru": "Филиппины"
+            "ru": "Филиппины",
+            "it": "Filippine",
+            "sv": "Filippinerna",
+            "fi": "Filippiinit",
+            "fr": "Philippines",
+            "zh": "菲律宾"
         },
         "country_code": "PH",
         "language_code": [
@@ -1970,7 +2782,12 @@
             "pt": "Polónia",
             "ja": "ポーランド",
             "ko": "폴란드",
-            "ru": "Польша"
+            "ru": "Польша",
+            "it": "Polonia",
+            "sv": "Polen",
+            "fi": "Puola",
+            "fr": "Pologne",
+            "zh": "波兰"
         },
         "country_code": "PL",
         "language_code": [
@@ -1985,7 +2802,12 @@
             "pt": "Portugal",
             "ja": "ポルトガル",
             "ko": "포르투갈",
-            "ru": "Португалия"
+            "ru": "Португалия",
+            "it": "Portogallo",
+            "sv": "Portugal",
+            "fi": "Portugali",
+            "fr": "Portugal",
+            "zh": "葡萄牙"
         },
         "country_code": "PT",
         "language_code": [
@@ -2000,7 +2822,12 @@
             "pt": "Catar",
             "ja": "カタール",
             "ko": "카타르",
-            "ru": "Катар"
+            "ru": "Катар",
+            "it": "Qatar",
+            "sv": "Qatar",
+            "fi": "Qatar",
+            "fr": "Qatar",
+            "zh": "卡塔尔"
         },
         "country_code": "QA",
         "language_code": [
@@ -2015,7 +2842,12 @@
             "pt": "República do Congo",
             "ja": "コンゴ共和国",
             "ko": "콩고 공화국",
-            "ru": "Республика Конго"
+            "ru": "Республика Конго",
+            "it": "Repubblica del Congo",
+            "sv": "Republiken Kongo",
+            "fi": "Kongon tasavalta",
+            "fr": "République du Congo",
+            "zh": "刚果共和国"
         },
         "country_code": "CG",
         "language_code": [
@@ -2030,7 +2862,12 @@
             "pt": "Roménia",
             "ja": "ルーマニア",
             "ko": "루마니아",
-            "ru": "Румыния"
+            "ru": "Румыния",
+            "it": "Romania",
+            "sv": "Rumänien",
+            "fi": "Romania",
+            "fr": "Roumanie",
+            "zh": "罗马尼亚"
         },
         "country_code": "RO",
         "language_code": [
@@ -2045,7 +2882,12 @@
             "pt": "Rússia",
             "ja": "ロシア",
             "ko": "러시아",
-            "ru": "Россия"
+            "ru": "Россия",
+            "it": "Russia",
+            "sv": "Ryssland",
+            "fi": "Venäjä",
+            "fr": "Russie",
+            "zh": "俄罗斯"
         },
         "country_code": "RU",
         "language_code": [
@@ -2060,7 +2902,12 @@
             "pt": "Ruanda",
             "ja": "ルワンダ",
             "ko": "르완다",
-            "ru": "Руанда"
+            "ru": "Руанда",
+            "it": "Ruanda",
+            "sv": "Rwanda",
+            "fi": "Ruanda",
+            "fr": "Rwanda",
+            "zh": "卢旺达"
         },
         "country_code": "RW",
         "language_code": [
@@ -2075,7 +2922,12 @@
             "pt": "São Cristóvão e Neves",
             "ja": "セントクリストファー・ネイビス",
             "ko": "세인트키츠 네비스",
-            "ru": "Сент-Китс и Невис"
+            "ru": "Сент-Китс и Невис",
+            "it": "Saint Kitts e Nevis",
+            "sv": "Saint Kitts och Nevis",
+            "fi": "Saint Kitts ja Nevis",
+            "fr": "Saint-Christophe-et-Niévès",
+            "zh": "圣基茨和尼维斯"
         },
         "country_code": "KN",
         "language_code": [
@@ -2090,7 +2942,12 @@
             "pt": "Santa Lúcia",
             "ja": "セントルシア",
             "ko": "세인트루시아",
-            "ru": "Сент-Люсия"
+            "ru": "Сент-Люсия",
+            "it": "Saint Lucia",
+            "sv": "Saint Lucia",
+            "fi": "Saint Lucia",
+            "fr": "Sainte-Lucie",
+            "zh": "圣卢西亚"
         },
         "country_code": "LC",
         "language_code": [
@@ -2105,7 +2962,12 @@
             "pt": "São Vicente e Granadinas",
             "ja": "セントビンセントおよびグレナディーン諸島",
             "ko": "세인트빈센트 그레나딘",
-            "ru": "Сент-Винсент и Гренадины"
+            "ru": "Сент-Винсент и Гренадины",
+            "it": "Saint Vincent e Grenadine",
+            "sv": "Saint Vincent och Grenadinerna",
+            "fi": "Saint Vincent ja Grenadiinit",
+            "fr": "Saint-Vincent-et-les-Grenadines",
+            "zh": "圣文森特和格林纳丁斯"
         },
         "country_code": "VC",
         "language_code": [
@@ -2120,7 +2982,12 @@
             "pt": "Samoa",
             "ja": "サモア",
             "ko": "사모아",
-            "ru": "Самоа"
+            "ru": "Самоа",
+            "it": "Samoa",
+            "sv": "Samoa",
+            "fi": "Samoa",
+            "fr": "Samoa",
+            "zh": "萨摩亚"
         },
         "country_code": "WS",
         "language_code": [
@@ -2135,7 +3002,12 @@
             "pt": "San Marino",
             "ja": "サンマリノ",
             "ko": "산마리노",
-            "ru": "Сан-Марино"
+            "ru": "Сан-Марино",
+            "it": "San Marino",
+            "sv": "San Marino",
+            "fi": "San Marino",
+            "fr": "Saint-Marin",
+            "zh": "圣马力诺"
         },
         "country_code": "SM",
         "language_code": [
@@ -2150,7 +3022,12 @@
             "pt": "Arábia Saudita",
             "ja": "サウジアラビア",
             "ko": "사우디아라비아",
-            "ru": "Саудовская Аравия"
+            "ru": "Саудовская Аравия",
+            "it": "Arabia Saudita",
+            "sv": "Saudiarabien",
+            "fi": "Saudi-Arabia",
+            "fr": "Arabie saoudite",
+            "zh": "沙特阿拉伯"
         },
         "country_code": "SA",
         "language_code": [
@@ -2165,7 +3042,12 @@
             "pt": "Senegal",
             "ja": "セネガル",
             "ko": "세네갈",
-            "ru": "Сенегал"
+            "ru": "Сенегал",
+            "it": "Senegal",
+            "sv": "Senegal",
+            "fi": "Senegal",
+            "fr": "Sénégal",
+            "zh": "塞内加尔"
         },
         "country_code": "SN",
         "language_code": [
@@ -2180,7 +3062,12 @@
             "pt": "Sérvia",
             "ja": "セルビア",
             "ko": "세르비아",
-            "ru": "Сербия"
+            "ru": "Сербия",
+            "it": "Serbia",
+            "sv": "Serbien",
+            "fi": "Serbia",
+            "fr": "Serbie",
+            "zh": "塞尔维亚"
         },
         "country_code": "RS",
         "language_code": [
@@ -2195,7 +3082,12 @@
             "pt": "Seicheles",
             "ja": "セーシェル",
             "ko": "세이셸",
-            "ru": "Сейшельские Острова"
+            "ru": "Сейшельские Острова",
+            "it": "Seychelles",
+            "sv": "Seychellerna",
+            "fi": "Seychellit",
+            "fr": "Seychelles",
+            "zh": "塞舌尔"
         },
         "country_code": "SC",
         "language_code": [
@@ -2210,7 +3102,12 @@
             "pt": "Serra Leoa",
             "ja": "シエラレオネ",
             "ko": "시에라리온",
-            "ru": "Сьерра-Леоне"
+            "ru": "Сьерра-Леоне",
+            "it": "Sierra Leone",
+            "sv": "Sierra Leone",
+            "fi": "Sierra Leone",
+            "fr": "Sierra Leone",
+            "zh": "塞拉利昂"
         },
         "country_code": "SL",
         "language_code": [
@@ -2225,7 +3122,12 @@
             "pt": "Singapura",
             "ja": "シンガポール",
             "ko": "싱가포르",
-            "ru": "Сингапур"
+            "ru": "Сингапур",
+            "it": "Singapore",
+            "sv": "Singapore",
+            "fi": "Singapore",
+            "fr": "Singapour",
+            "zh": "新加坡"
         },
         "country_code": "SG",
         "language_code": [
@@ -2243,7 +3145,12 @@
             "pt": "Eslováquia",
             "ja": "スロバキア",
             "ko": "슬로바키아",
-            "ru": "Словакия"
+            "ru": "Словакия",
+            "it": "Slovacchia",
+            "sv": "Slovakien",
+            "fi": "Slovakia",
+            "fr": "Slovaquie",
+            "zh": "斯洛伐克"
         },
         "country_code": "SK",
         "language_code": [
@@ -2258,7 +3165,12 @@
             "pt": "Eslovênia",
             "ja": "スロベニア",
             "ko": "슬로베니아",
-            "ru": "Словения"
+            "ru": "Словения",
+            "it": "Slovenia",
+            "sv": "Slovenien",
+            "fi": "Slovenia",
+            "fr": "Slovénie",
+            "zh": "斯洛文尼亚"
         },
         "country_code": "SI",
         "language_code": [
@@ -2273,7 +3185,12 @@
             "pt": "Ilhas Salomão",
             "ja": "ソロモン諸島",
             "ko": "솔로몬 제도",
-            "ru": "Соломоновы Острова"
+            "ru": "Соломоновы Острова",
+            "it": "Isole Salomone",
+            "sv": "Salomonöarna",
+            "fi": "Salomonsaaret",
+            "fr": "Îles Salomon",
+            "zh": "所罗门群岛"
         },
         "country_code": "SB",
         "language_code": [
@@ -2288,7 +3205,12 @@
             "pt": "Somália",
             "ja": "ソマリア",
             "ko": "소말리아",
-            "ru": "Сомали"
+            "ru": "Сомали",
+            "it": "Somalia",
+            "sv": "Somalia",
+            "fi": "Somalia",
+            "fr": "Somalie",
+            "zh": "索马里"
         },
         "country_code": "SO",
         "language_code": [
@@ -2303,7 +3225,12 @@
             "pt": "África do Sul",
             "ja": "南アフリカ",
             "ko": "남아프리카 공화국",
-            "ru": "Южная Африка"
+            "ru": "Южная Африка",
+            "it": "Sudafrica",
+            "sv": "Sydafrika",
+            "fi": "Etelä-Afrikka",
+            "fr": "Afrique du Sud",
+            "zh": "南非"
         },
         "country_code": "ZA",
         "language_code": [
@@ -2318,7 +3245,12 @@
             "pt": "Coreia do Sul",
             "ja": "韓国",
             "ko": "대한민국",
-            "ru": "Южная Корея"
+            "ru": "Южная Корея",
+            "it": "Corea del Sud",
+            "sv": "Sydkorea",
+            "fi": "Etelä-Korea",
+            "fr": "Corée du Sud",
+            "zh": "韩国"
         },
         "country_code": "KR",
         "language_code": [
@@ -2333,7 +3265,12 @@
             "pt": "Sudão do Sul",
             "ja": "南スーダン",
             "ko": "남수단",
-            "ru": "Южный Судан"
+            "ru": "Южный Судан",
+            "it": "Sud Sudan",
+            "sv": "Sydsudan",
+            "fi": "Etelä-Sudan",
+            "fr": "Soudan du Sud",
+            "zh": "南苏丹"
         },
         "country_code": "SS",
         "language_code": [
@@ -2348,7 +3285,12 @@
             "pt": "Espanha",
             "ja": "スペイン",
             "ko": "스페인",
-            "ru": "Испания"
+            "ru": "Испания",
+            "it": "Spagna",
+            "sv": "Spanien",
+            "fi": "Espanja",
+            "fr": "Espagne",
+            "zh": "西班牙"
         },
         "country_code": "ES",
         "language_code": [
@@ -2363,7 +3305,12 @@
             "pt": "Sri Lanka",
             "ja": "スリランカ",
             "ko": "스리랑카",
-            "ru": "Шри-Ланка"
+            "ru": "Шри-Ланка",
+            "it": "Sri Lanka",
+            "sv": "Sri Lanka",
+            "fi": "Sri Lanka",
+            "fr": "Sri Lanka",
+            "zh": "斯里兰卡"
         },
         "country_code": "LK",
         "language_code": [
@@ -2379,7 +3326,12 @@
             "pt": "Sudão",
             "ja": "スーダン",
             "ko": "수단",
-            "ru": "Судан"
+            "ru": "Судан",
+            "it": "Sudan",
+            "sv": "Sudan",
+            "fi": "Sudan",
+            "fr": "Soudan",
+            "zh": "苏丹"
         },
         "country_code": "SD",
         "language_code": [
@@ -2394,7 +3346,12 @@
             "pt": "Suriname",
             "ja": "スリナム",
             "ko": "수리남",
-            "ru": "Суринам"
+            "ru": "Суринам",
+            "it": "Suriname",
+            "sv": "Surinam",
+            "fi": "Suriname",
+            "fr": "Suriname",
+            "zh": "苏里南"
         },
         "country_code": "SR",
         "language_code": [
@@ -2409,7 +3366,12 @@
             "pt": "Suécia",
             "ja": "スウェーデン",
             "ko": "스웨덴",
-            "ru": "Швеция"
+            "ru": "Швеция",
+            "it": "Svezia",
+            "sv": "Sverige",
+            "fi": "Ruotsi",
+            "fr": "Suède",
+            "zh": "瑞典"
         },
         "country_code": "SE",
         "language_code": [
@@ -2424,7 +3386,12 @@
             "pt": "Suíça",
             "ja": "スイス",
             "ko": "스위스",
-            "ru": "Швейцария"
+            "ru": "Швейцария",
+            "it": "Svizzera",
+            "sv": "Schweiz",
+            "fi": "Sveitsi",
+            "fr": "Suisse",
+            "zh": "瑞士"
         },
         "country_code": "CH",
         "language_code": [
@@ -2442,7 +3409,12 @@
             "pt": "Síria",
             "ja": "シリア",
             "ko": "시리아",
-            "ru": "Сирия"
+            "ru": "Сирия",
+            "it": "Siria",
+            "sv": "Syrien",
+            "fi": "Syyria",
+            "fr": "Syrie",
+            "zh": "叙利亚"
         },
         "country_code": "SY",
         "language_code": [
@@ -2457,10 +3429,17 @@
             "pt": "São Tomé e Príncipe",
             "ja": "サントメ・プリンシペ",
             "ko": "상투메 프린시페",
-            "ru": "Сан-Томе и Принсипи"
+            "ru": "Сан-Томе и Принсипи",
+            "it": "São Tomé e Príncipe",
+            "sv": "São Tomé och Príncipe",
+            "fi": "São Tomé ja Príncipe",
+            "fr": "São Tomé-et-Principe",
+            "zh": "圣多美和普林西比"
         },
         "country_code": "ST",
-        "language_code": ["pt"]
+        "language_code": [
+            "pt"
+        ]
     },
     {
         "country_name": {
@@ -2470,10 +3449,17 @@
             "pt": "Taiwan",
             "ja": "台湾",
             "ko": "대만",
-            "ru": "Тайвань"
+            "ru": "Тайвань",
+            "it": "Taiwan",
+            "sv": "Taiwan",
+            "fi": "Taiwan",
+            "fr": "Taïwan",
+            "zh": "台湾"
         },
         "country_code": "TW",
-        "language_code": ["zh"]
+        "language_code": [
+            "zh"
+        ]
     },
     {
         "country_name": {
@@ -2483,10 +3469,18 @@
             "pt": "Tajiquistão",
             "ja": "タジキスタン",
             "ko": "타지키스탄",
-            "ru": "Таджикистан"
+            "ru": "Таджикистан",
+            "it": "Tagikistan",
+            "sv": "Tadzjikistan",
+            "fi": "Tadžikistan",
+            "fr": "Tadjikistan",
+            "zh": "塔吉克斯坦"
         },
         "country_code": "TJ",
-        "language_code": ["tg", "ru"]
+        "language_code": [
+            "tg",
+            "ru"
+        ]
     },
     {
         "country_name": {
@@ -2496,10 +3490,17 @@
             "pt": "Tanzânia",
             "ja": "タンザニア",
             "ko": "탄자니아",
-            "ru": "Танзания"
+            "ru": "Танзания",
+            "it": "Tanzania",
+            "sv": "Tanzania",
+            "fi": "Tansania",
+            "fr": "Tanzanie",
+            "zh": "坦桑尼亚"
         },
         "country_code": "TZ",
-        "language_code": ["sw"]
+        "language_code": [
+            "sw"
+        ]
     },
     {
         "country_name": {
@@ -2509,10 +3510,17 @@
             "pt": "Tailândia",
             "ja": "タイ",
             "ko": "태국",
-            "ru": "Таиланд"
+            "ru": "Таиланд",
+            "it": "Thailandia",
+            "sv": "Thailand",
+            "fi": "Thaimaa",
+            "fr": "Thaïlande",
+            "zh": "泰国"
         },
         "country_code": "TH",
-        "language_code": ["th"]
+        "language_code": [
+            "th"
+        ]
     },
     {
         "country_name": {
@@ -2522,10 +3530,18 @@
             "pt": "Timor-Leste",
             "ja": "東ティモール",
             "ko": "동티모르",
-            "ru": "Тимор-Лесте"
+            "ru": "Тимор-Лесте",
+            "it": "Timor Est",
+            "sv": "Östtimor",
+            "fi": "Itä-Timor",
+            "fr": "Timor oriental",
+            "zh": "东帝汶"
         },
         "country_code": "TL",
-        "language_code": ["pt", "tet"]
+        "language_code": [
+            "pt",
+            "tet"
+        ]
     },
     {
         "country_name": {
@@ -2535,10 +3551,17 @@
             "pt": "Togo",
             "ja": "トーゴ",
             "ko": "토고",
-            "ru": "Того"
+            "ru": "Того",
+            "it": "Togo",
+            "sv": "Togo",
+            "fi": "Togo",
+            "fr": "Togo",
+            "zh": "多哥"
         },
         "country_code": "TG",
-        "language_code": ["fr"]
+        "language_code": [
+            "fr"
+        ]
     },
     {
         "country_name": {
@@ -2548,10 +3571,17 @@
             "pt": "Tonga",
             "ja": "トンガ",
             "ko": "통가",
-            "ru": "Тонга"
+            "ru": "Тонга",
+            "it": "Tonga",
+            "sv": "Tonga",
+            "fi": "Tonga",
+            "fr": "Tonga",
+            "zh": "汤加"
         },
         "country_code": "TO",
-        "language_code": ["to"]
+        "language_code": [
+            "to"
+        ]
     },
     {
         "country_name": {
@@ -2561,10 +3591,17 @@
             "pt": "Trindade e Tobago",
             "ja": "トリニダード・トバゴ",
             "ko": "트리니다드 토바고",
-            "ru": "Тринидад и Тобаго"
+            "ru": "Тринидад и Тобаго",
+            "it": "Trinidad e Tobago",
+            "sv": "Trinidad och Tobago",
+            "fi": "Trinidad ja Tobago",
+            "fr": "Trinité-et-Tobago",
+            "zh": "特立尼达和多巴哥"
         },
         "country_code": "TT",
-        "language_code": ["en"]
+        "language_code": [
+            "en"
+        ]
     },
     {
         "country_name": {
@@ -2574,10 +3611,17 @@
             "pt": "Tunísia",
             "ja": "チュニジア",
             "ko": "튀니지",
-            "ru": "Тунис"
+            "ru": "Тунис",
+            "it": "Tunisia",
+            "sv": "Tunisien",
+            "fi": "Tunisia",
+            "fr": "Tunisie",
+            "zh": "突尼斯"
         },
         "country_code": "TN",
-        "language_code": ["ar"]
+        "language_code": [
+            "ar"
+        ]
     },
     {
         "country_name": {
@@ -2587,10 +3631,17 @@
             "pt": "Turquia",
             "ja": "トルコ",
             "ko": "튀르키예",
-            "ru": "Турция"
+            "ru": "Турция",
+            "it": "Turchia",
+            "sv": "Turkiet",
+            "fi": "Turkki",
+            "fr": "Turquie",
+            "zh": "土耳其"
         },
         "country_code": "TR",
-        "language_code": ["tr"]
+        "language_code": [
+            "tr"
+        ]
     },
     {
         "country_name": {
@@ -2600,10 +3651,18 @@
             "pt": "Turquemenistão",
             "ja": "トルクメニスタン",
             "ko": "투르크메니스탄",
-            "ru": "Туркмения"
+            "ru": "Туркмения",
+            "it": "Turkmenistan",
+            "sv": "Turkmenistan",
+            "fi": "Turkmenistan",
+            "fr": "Turkménistan",
+            "zh": "土库曼斯坦"
         },
         "country_code": "TM",
-        "language_code": ["tk", "ru"]
+        "language_code": [
+            "tk",
+            "ru"
+        ]
     },
     {
         "country_name": {
@@ -2613,10 +3672,17 @@
             "pt": "Tuvalu",
             "ja": "ツバル",
             "ko": "투발루",
-            "ru": "Тувалу"
+            "ru": "Тувалу",
+            "it": "Tuvalu",
+            "sv": "Tuvalu",
+            "fi": "Tuvalu",
+            "fr": "Tuvalu",
+            "zh": "图瓦卢"
         },
         "country_code": "TV",
-        "language_code": ["tvl"]
+        "language_code": [
+            "tvl"
+        ]
     },
     {
         "country_name": {
@@ -2626,10 +3692,17 @@
             "pt": "Uganda",
             "ja": "ウガンダ",
             "ko": "우간다",
-            "ru": "Уганда"
+            "ru": "Уганда",
+            "it": "Uganda",
+            "sv": "Uganda",
+            "fi": "Uganda",
+            "fr": "Ouganda",
+            "zh": "乌干达"
         },
         "country_code": "UG",
-        "language_code": ["sw"]
+        "language_code": [
+            "sw"
+        ]
     },
     {
         "country_name": {
@@ -2639,10 +3712,17 @@
             "pt": "Ucrânia",
             "ja": "ウクライナ",
             "ko": "우크라이나",
-            "ru": "Украина"
+            "ru": "Украина",
+            "it": "Ucraina",
+            "sv": "Ukraina",
+            "fi": "Ukraina",
+            "fr": "Ukraine",
+            "zh": "乌克兰"
         },
         "country_code": "UA",
-        "language_code": ["uk"]
+        "language_code": [
+            "uk"
+        ]
     },
     {
         "country_name": {
@@ -2652,10 +3732,17 @@
             "pt": "Emirados Árabes Unidos",
             "ja": "アラブ首長国連邦",
             "ko": "아랍에미리트",
-            "ru": "Объединенные Арабские Эмираты"
+            "ru": "Объединенные Арабские Эмираты",
+            "it": "Emirati Arabi Uniti",
+            "sv": "Förenade Arabemiraten",
+            "fi": "Yhdistyneet arabiemiirikunnat",
+            "fr": "Émirats arabes unis",
+            "zh": "阿拉伯联合酋长国"
         },
         "country_code": "AE",
-        "language_code": ["ar"]
+        "language_code": [
+            "ar"
+        ]
     },
     {
         "country_name": {
@@ -2665,10 +3752,17 @@
             "pt": "Reino Unido",
             "ja": "イギリス",
             "ko": "영국",
-            "ru": "Великобритания"
+            "ru": "Великобритания",
+            "it": "Regno Unito",
+            "sv": "Storbritannien",
+            "fi": "Yhdistynyt kuningaskunta",
+            "fr": "Royaume-Uni",
+            "zh": "英国"
         },
         "country_code": "GB",
-        "language_code": ["en"]
+        "language_code": [
+            "en"
+        ]
     },
     {
         "country_name": {
@@ -2678,10 +3772,17 @@
             "pt": "Estados Unidos",
             "ja": "アメリカ合衆国",
             "ko": "미국",
-            "ru": "Соединенные Штаты"
+            "ru": "Соединенные Штаты",
+            "it": "Stati Uniti",
+            "sv": "USA",
+            "fi": "Yhdysvallat",
+            "fr": "États-Unis",
+            "zh": "美国"
         },
         "country_code": "US",
-        "language_code": ["en"]
+        "language_code": [
+            "en"
+        ]
     },
     {
         "country_name": {
@@ -2691,10 +3792,17 @@
             "pt": "Uruguai",
             "ja": "ウルグアイ",
             "ko": "우루과이",
-            "ru": "Уругвай"
+            "ru": "Уругвай",
+            "it": "Uruguay",
+            "sv": "Uruguay",
+            "fi": "Uruguay",
+            "fr": "Uruguay",
+            "zh": "乌拉圭"
         },
         "country_code": "UY",
-        "language_code": ["es"]
+        "language_code": [
+            "es"
+        ]
     },
     {
         "country_name": {
@@ -2704,10 +3812,18 @@
             "pt": "Uzbequistão",
             "ja": "ウズベキスタン",
             "ko": "우즈베키스탄",
-            "ru": "Узбекистан"
+            "ru": "Узбекистан",
+            "it": "Uzbekistan",
+            "sv": "Uzbekistan",
+            "fi": "Uzbekistan",
+            "fr": "Ouzbékistan",
+            "zh": "乌兹别克斯坦"
         },
         "country_code": "UZ",
-        "language_code": ["uz", "ru"]
+        "language_code": [
+            "uz",
+            "ru"
+        ]
     },
     {
         "country_name": {
@@ -2717,10 +3833,17 @@
             "pt": "Vanuatu",
             "ja": "バヌアツ",
             "ko": "바누아투",
-            "ru": "Вануату"
+            "ru": "Вануату",
+            "it": "Vanuatu",
+            "sv": "Vanuatu",
+            "fi": "Vanuatu",
+            "fr": "Vanuatu",
+            "zh": "瓦努阿图"
         },
         "country_code": "VU",
-        "language_code": ["bi"]
+        "language_code": [
+            "bi"
+        ]
     },
     {
         "country_name": {
@@ -2730,10 +3853,18 @@
             "pt": "Cidade do Vaticano",
             "ja": "バチカン市国",
             "ko": "바티칸 시국",
-            "ru": "Ватикан"
+            "ru": "Ватикан",
+            "it": "Città del Vaticano",
+            "sv": "Vatikanstaten",
+            "fi": "Vatikaanivaltio",
+            "fr": "Cité du Vatican",
+            "zh": "梵蒂冈城"
         },
         "country_code": "VA",
-        "language_code": ["it", "la"]
+        "language_code": [
+            "it",
+            "la"
+        ]
     },
     {
         "country_name": {
@@ -2743,10 +3874,17 @@
             "pt": "Venezuela",
             "ja": "ベネズエラ",
             "ko": "베네수엘라",
-            "ru": "Венесуэла"
+            "ru": "Венесуэла",
+            "it": "Venezuela",
+            "sv": "Venezuela",
+            "fi": "Venezuela",
+            "fr": "Venezuela",
+            "zh": "委内瑞拉"
         },
         "country_code": "VE",
-        "language_code": ["es"]
+        "language_code": [
+            "es"
+        ]
     },
     {
         "country_name": {
@@ -2756,10 +3894,17 @@
             "pt": "Vietnã",
             "ja": "ベトナム",
             "ko": "베트남",
-            "ru": "Вьетнам"
+            "ru": "Вьетнам",
+            "it": "Vietnam",
+            "sv": "Vietnam",
+            "fi": "Vietnam",
+            "fr": "Vietnam",
+            "zh": "越南"
         },
         "country_code": "VN",
-        "language_code": ["vi"]
+        "language_code": [
+            "vi"
+        ]
     },
     {
         "country_name": {
@@ -2769,10 +3914,17 @@
             "pt": "Iémen",
             "ja": "イエメン",
             "ko": "예멘",
-            "ru": "Йемен"
+            "ru": "Йемен",
+            "it": "Yemen",
+            "sv": "Jemen",
+            "fi": "Jemen",
+            "fr": "Yémen",
+            "zh": "也门"
         },
         "country_code": "YE",
-        "language_code": ["ar"]
+        "language_code": [
+            "ar"
+        ]
     },
     {
         "country_name": {
@@ -2782,10 +3934,17 @@
             "pt": "Zâmbia",
             "ja": "ザンビア",
             "ko": "잠비아",
-            "ru": "Замбия"
+            "ru": "Замбия",
+            "it": "Zambia",
+            "sv": "Zambia",
+            "fi": "Sambia",
+            "fr": "Zambie",
+            "zh": "赞比亚"
         },
         "country_code": "ZM",
-        "language_code": ["en"]
+        "language_code": [
+            "en"
+        ]
     },
     {
         "country_name": {
@@ -2795,9 +3954,16 @@
             "pt": "Zimbábue",
             "ja": "ジンバブエ",
             "ko": "짐바브웨",
-            "ru": "Зимбабве"
+            "ru": "Зимбабве",
+            "it": "Zimbabwe",
+            "sv": "Zimbabwe",
+            "fi": "Zimbabwe",
+            "fr": "Zimbabwe",
+            "zh": "津巴布韦"
         },
         "country_code": "ZW",
-        "language_code": ["en"]
+        "language_code": [
+            "en"
+        ]
     }
 ]

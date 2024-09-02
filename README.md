@@ -1,6 +1,6 @@
 # json-world-countries-list
 This repository will give you a JSON list of all countries in the world, with their:
-- [ ] Translated names in English, Spanish, Portuguese, Japanese, Korean, Russian  and in native language 
+- [ ] Translated names in English, Spanish, Portuguese, Japanese, Korean, Russian, Italian, Swedish, Finnish, French, Chinese and in native language 
 - [ ] Respective country code
 - [ ] Language code(s).
 
@@ -16,7 +16,12 @@ The format is as below below:
             "pt": "Singapura",
             "ja": "シンガポール",
             "ko": "싱가포르",
-            "ru": "Сингапур"
+            "ru": "Сингапур",
+            "it": "Singapore",
+            "sv": "Singapore",
+            "fi": "Singapore",
+            "fr": "Singapour",
+            "zh": "新加坡"
         },
         "country_code": "SG",
         "language_code": [
